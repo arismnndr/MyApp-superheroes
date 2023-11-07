@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">MyApp-superheroes</string>
+
+    <string name="keterangan_default">Artikel</string>
+    <string name="About">About</string>
+<!--    <string name="grid">Grid</string>-->
+    <string name="name">Aris Munandar</string>
+    <string name="email">aris.munandar1802@gmail.com</string>
+
+
+    <string-array name="data_name">
+        <item>Antman</item>
+        <item>Batman</item>
+        <item>Black Panther</item>
+        <item>Captain America</item>
+        <item>Flash</item>
+        <item>Hulk</item>
+        <item>Ironman</item>
+        <item>Spiderman</item>
+        <item>Superman</item>
+        <item>Thor</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Antman bermula saat seorang ilmuan bernama Hank Pym mundur dari S.H.I.E.L.D setelah ia tahu mereka mencoba meniru teknologi menyusut Ant-Man miliknya. </item>
+        <item>Batman bermula saat seorang pria asal Gotham, Bruce Wayne (Michael Keaton), melihat orang tuanya dibunuh saat masih kecil.</item>
+        <item>Black Panther menceritakan kepulangan T Challa ke negara asalnya di Afrika, Wakanda.</item>
+        <item>Captain Amerika dulunya adalah seorang tentara AS yang kurus dan tidak memiliki kemampuan sama sekali untuk menjadi seorang tentara.</item>
+        <item>Flash merupakan Seorang laki-laki bernama Barry Allen (Ezra Miller) yang memiliki kekuatan super karena disambar petir Kekuatan supernya itu adalah kecepatan.</item>
+        <item>Hulk dikisahkan sebagai mahluk yang terdapat dalam tubuh seorang ilmuan bernama Bruce Banner.</item>
+        <item>Ironman bermula saat Tony Stark yang tengah melakukan presentasi rudal di Afghanistan diculik oleh kelompok teroris. Insiden penculikan itu nyaris membuat Tony terbunuh.</item>
+        <item>Spiderman bermula pada saat Parker memasuki usia remajanya, Parker mengikuti sebuah acara untuk tugas sekolahnya tentang cara penanganan limbah dari laboratorium nuklir.</item>
+        <item>Superman berasal dari sebuah planet jauh yang bernama Krypton. Planet tersebut telah hancur akibat ulah makhluk Krypton itu sendiri.</item>
+        <item>Thor sendiri adalah anak dari seorang Skyfather (Odin) dan Elder God (Gaea) dan berasal dari sebuah planet yang bernama Asgard. Ia adalah seorang pewaris sah tahta yang kuat.</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>Antman bermula saat seorang ilmuan bernama Hank Pym mundur dari S.H.I.E.L.D setelah ia tahu mereka mencoba meniru teknologi menyusut Ant-Man miliknya. Hank Pym adalah Antman pertama sebelum Scott Lang. Scott Lang sendiri lahir dan besar di Coral Gables, Florida. Ia adalah seorang anak dari Bob Lang. Antman memiliki kekuatan untuk memanipulasi ukuran, ketahanan super, berkomunikasi dengan semut, ahli listrik, dan bela diri.</item>
+        <item>Batman bermula saat seorang pria asal Gotham, Bruce Wayne (Michael Keaton), melihat orang tuanya dibunuh saat masih kecil Kemudian, Bruce Wayne tumbuh menjadi sosok pria dewasa yang kaya raya serta murah hati namun ia kesal karena melihat banyak kejahatan di kota Gotham dari sinilah memicu munculnya seorang pahlawan bernama Batman yang mengenakan kostum kelelawar sampai akhirnya muncul musuh yang bernama joker.</item>
+        <item>Black Panther menceritakan kepulangan T Challa ke negara asalnya di Afrika, Wakanda. Hal ini bermula setelah kematian ayahnya, King T Chaka (John Kani) yang ditembak oleh seseorang Negeri Wakanda memiliki kelebihan pada sebuah mineral yang disebut vibranium yang sangat dilindungi agar tidak ada orang yang berasal dari luar Wakanda yang dapat memanfaatkan teknologi mereka secara sembarangan.</item>
+        <item>Captain Amerika dulunya adalah seorang tentara AS yang kurus dan tidak memiliki kemampuan sama sekali untuk menjadi seorang tentara. Namun berkat kecerdasan, kebaikan hati dan kebijakannya selama latihan, ia dipilih untuk menjadi bahan percobaan serum yang diciptakan oleh pemerintah Amerika untuk membuat tentara super. Dari  bantuan serum supernya ia menjelma menjadi sosok pahlawan perang bagi Amerika saat melawan Nazi yang dipimpin oleh Adolf Hitler.</item>
+        <item>Flash merupakan Seorang laki-laki bernama Barry Allen (Ezra Miller) yang memiliki kekuatan super karena disambar petir Kekuatan supernya itu adalah kecepatan. Tidak hanya bisa ke sana ke mari dengan cepat, Barry juga bisa bepergian dari masa ke masa menggunakan kecepatannya tersebut. Barry pun berusaha menggunakan kecepatan supernya tersebut untuk mengubah masa lalu. Dia ingin menyelamatkan ibunya di masa lalu. Namun, dia tidak sengaja mengubah masa depan karena dunia bertabrakan. Barry menciptakan dunia tanpa pahlawan dan Jenderal Zod kembali. Untuk mengalahkannya, satu-satunya harapannya ada di tangan pensiunan Batman, Barry lainnya, dan seorang kryptonian yang dipenjara.</item>
+        <item>Hulk dikisahkan sebagai mahluk yang terdapat dalam tubuh seorang ilmuan bernama Bruce Banner. Bruce Banner, M.D., Ph.D adalah seorang ilmuan terkenal yang semua karyanya sangat dihormati, dia ahli dibidang biokimia, pakar fisika nuklir dan radiasi gamma. Suatu hari dia tidak sengaja terkena paparan sinar gamma tingkat tinggi dan membuatnya berubah menjadi Mahluk hijau yang sangat besar dan kuat apabila dia sedang marah yang dikenal sebagai Hulk. Takut akan kerusakan yang dapat ditimbulkan olehnya apabila ia berubah menjadi Hulk, Bruce pun memilih hidup berkelana sekaligus mencari tempat bersembunyi dari kejaran Jendral Ross yang berusaha mengambil keuntungan dari kemampuan yang dia miliki. Pengejaran terus dilakukan oleh Jendral Ross dengan mengirim sekelompok militer dibawah pimpinan Emil Blonsky untuk mencari dan menangkan Bruce. Karena Blonsky dikalahkan dengan mudah oleh Hulk, dia kemudian ingin menjadi seperti Hulk dan menyuntikkan radiasi gamma tingkat tinggi dan akhirnya diapun berubah menjadi Abomination. Setelah mendengar kabar ini, Bruce dipaksa kembali ke New York dan akhirnya melawan Abomination sebagai Hulk. Melalui pertarungan yang cukup sengit, Hulk akhirnya berhasil mengalahkan Abomination.</item>
+        <item>Ironman bermula saat Tony Stark yang tengah melakukan presentasi rudal di Afghanistan diculik oleh kelompok teroris. Insiden penculikan itu nyaris membuat Tony terbunuh. Namun seorang tahanan lain bernama Yinsen menyelamatkannya dengan menanamkan sebuah elektromagnet ke jantung Tony sehingga membuatnya tetap hidup.  Kelompok teroris tersebut meminta Tony untuk membuatkan rudal, namun Tony menolak. Ia justru merencanakan sebuah cara untuk menyelamatkan diri. Dalam penyekapan tersebut, Tony berhasil menciptakan palladium yang ia simpan di dadanya serta sebuah kostum baju besi. Dengan kostum itu, Tony berhasil mengalahkan para teroris dan kabur, meski sayangnya Yinsen tak berhasil selamat setelah mengorbankan dirinya. Tony Stark kemudian kembali ke Amerika dan memberi pernyataan mengejutkan pada pers. Ia yang melihat bagaimana senjatanya digunakan sebagai alat pembunuh ingin menghentikan divisi persenjataan di Stark Industries. Tangan kanannya yang sudah lama bekerja untuk Stark Industries, Obadiah Stane, menolak gagasan tersebut. Di belakang Tony, Obadiah memimpin dewan direksi yang lain sehingga menyudutkan Tony. Tanpa Tony, Obadiah tetap melanjutkan kegiatan di perusahaan Stark Industries. Sementara Tony Stark yang nuraninya terus terusik saat melihat korban perang berjatuhan mulai membuat proyek menciptakan baju besi seperti yang dulu ia buat untuk kabur dari para teroris. Di rumahnya, Tony melakukan segala eksperimen itu dan selalu dibantu oleh asistennya, Pepper Potts.</item>
+        <item>Spiderman bermula pada saat Parker memasuki usia remajanya, Parker mengikuti sebuah acara untuk tugas sekolahnya tentang cara penanganan limbah dari laboratorium nuklir. Parker yang saat itu baru berusia 15 tahun saat ia digigit oleh laba-laba yang mengandung radiasi yang membuatnya memiliki kemampuan layaknya laba-laba. Setelah Peter Parker di gigit laba-laba genetik, dia telah mendapat kemampuan layaknya laba-laba. dengan kemampuan fisiknya yang baru, ia menahan diri untuk masuk kedalam klub olahraga seperti sepakbola karena memiliki keunggulan super. Tak hanya memiliki keunggulan fisik baru, berikut adalah Beberapa kekuatan yang dimiliki Spider-Man.</item>
+        <item>Superman berasal dari sebuah planet jauh yang bernama Krypton. Planet tersebut telah hancur akibat ulah makhluk Krypton itu sendiri. Superman saat itu  masih bayi dan dikirim melalui sebuah pesawat oleh kedua orang tuanya sebelum semua planet Krypton hancur lebur. Superman memiliki 2 nama, pertama nama yang diberikan oleh ayah kandungnya, yaitu Kal-El. Dan nama yang diberikan ketika ia telah diadopsi oleh keluarga Kent, yaitu Clark Kent. Superman diberkahi kemampuan untuk terbang, mempunyai kekuatan yang luar biasa dan nyaris sempurna, dia hanya bisa dilukai oleh sesuatu yang berasal dari sebuah batu Kryptonite. Superman juga memiliki mata yang bisa menembakkan laser panas, bisa melihat dari ukuran terbesar sampai ukuran mikroskopik atau terkecil, bisa berfungsi sebagai x-ray dan gelombang radio. Dia bisa mendengar orang dari kejauhan yang tak terduga.</item>
+        <item>Thor sendiri adalah anak dari seorang Skyfather (Odin) dan Elder God (Gaea) dan berasal dari sebuah planet yang bernama Asgard. Ia adalah seorang pewaris sah tahta yang kuat. Kemampuan bertarung yang dimilikinya sangat hebat dengan menggunakan sebuah palu bernama Mjlonir. Pada awal kemunculan nya pada film, ia hanyalah seorang kesatria yang suka berperang melawan musuhnya ketimbang berdamai. Hal inilah yang membuatnya dibuang dari tempat asalnya Asgard dan palu Mjlonir diambil kembali oleh Odin. Dikisahkan bahwa palu tersebut adalah setengah dari kekuatan yang dimiliki oleh Thor. Namun apa yang terjadi apabila palu tersebut tidak ada atau rusak? Inilah yang kemudian digambarkan dalam film Thor Ragnarok saat dia kehilangan palunya akibat dihancurkan oleh kakaknya yang bernama Hela, yaitu seorang Dewi Kematian.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ant_man</item>
+        <item>@drawable/batman</item>
+        <item>@drawable/black_panther</item>
+        <item>@drawable/captain_amerika</item>
+        <item>@drawable/flash</item>
+        <item>@drawable/hulk</item>
+        <item>@drawable/ironman</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/superman</item>
+        <item>@drawable/thor</item>
+    </integer-array>
+    <integer-array name="foto">
+        <item>@drawable/foto_arism</item>
+    </integer-array>
+    <string name="pindah_Activity">Pindah Activity</string>
+</resources>
+
+
+
